@@ -38,7 +38,7 @@ Test how users respond. Does it communicate? Does it connect?
 ## Quick Start
 
 ```bash
-git clone https://github.com/layogtima/mono.git
+git clone https://github.com/shanmuckh/mono.git
 cd mono
 # Open any HTML file in your browser
 ```
@@ -112,21 +112,8 @@ Space Mono used in varying:
 - `gallery.html` - System in action
 - `about.html` - Design philosophy
 
-## MONO in the Wild
 
-Check out these projects already embracing the monochromatic revolution:
 
-### [layogtima.com](https://layogtima.com)
-
-Amit's portfolio showcasing UI/UX design, hardware consulting, and flow artistry. Minimal and focused, just like its creator's attention span.
-
-### [sm0.dev](https://www.sm0.dev/)
-
-Shreshth's corner of the internet—web development, visualizations, and philosophical musings, all without the distraction of color.
-
-### [seeds.layogtima.com](https://seeds.layogtima.com/)
-
-A personal guide to growing food in Bengaluru. Proving that even plants, which literally exist to provide color in nature, can be documented in black and white.
 
 ## Contribute
 
@@ -141,9 +128,3 @@ Got MONOCHROME magic to share?
 ## License
 
 GPL v3. Share it, improve it, build with it.
-
-## Credits
-
-- Created by [Amit](https://layogtima.com)
-- Inspired by minimalism and constraint-driven design
-- Built with [Tailwind CSS](https://tailwindcss.com/)
